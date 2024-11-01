@@ -1,0 +1,9 @@
+c:\users\greatbird\documents\visual studio 2013\Projects\Grading App\Grading App\bin\Debug\Grading App.exe.config
+c:\users\greatbird\documents\visual studio 2013\Projects\Grading App\Grading App\bin\Debug\Grading App.exe
+c:\users\greatbird\documents\visual studio 2013\Projects\Grading App\Grading App\bin\Debug\Grading App.pdb
+c:\users\greatbird\documents\visual studio 2013\Projects\Grading App\Grading App\obj\Debug\Grading App.csprojResolveAssemblyReference.cache
+c:\users\greatbird\documents\visual studio 2013\Projects\Grading App\Grading App\obj\Debug\Grading_App.Properties.Resources.resources
+c:\users\greatbird\documents\visual studio 2013\Projects\Grading App\Grading App\obj\Debug\Grading App.csproj.GenerateResource.Cache
+c:\users\greatbird\documents\visual studio 2013\Projects\Grading App\Grading App\obj\Debug\Grading App.exe
+c:\users\greatbird\documents\visual studio 2013\Projects\Grading App\Grading App\obj\Debug\Grading App.pdb
+c:\users\greatbird\documents\visual studio 2013\Projects\Grading App\Grading App\obj\Debug\Grading_App.FrmGradeApp.resources
