@@ -1,0 +1,4 @@
+C:\Users\GreatBird\AppData\Local\Temporary Projects\sumofEven\bin\Debug\sumofEven.exe
+C:\Users\GreatBird\AppData\Local\Temporary Projects\sumofEven\bin\Debug\sumofEven.pdb
+C:\Users\GreatBird\AppData\Local\Temporary Projects\sumofEven\obj\x86\Debug\sumofEven.exe
+C:\Users\GreatBird\AppData\Local\Temporary Projects\sumofEven\obj\x86\Debug\sumofEven.pdb

@@ -1,0 +1,16 @@
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Simple_Login_Window\bin\Debug\Simple_Login_Window.exe
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Simple_Login_Window\bin\Debug\Simple_Login_Window.pdb
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.FrmLogin.resources
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.Properties.Resources.resources
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.csproj.GenerateResource.Cache
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.exe
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.pdb
+C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\Simple_Login_Window\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.exe
+C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\Simple_Login_Window\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.pdb
+C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\Simple_Login_Window\Simple_Login_Window\bin\Debug\Simple_Login_Window.exe
+C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\Simple_Login_Window\Simple_Login_Window\bin\Debug\Simple_Login_Window.pdb
+C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\Simple_Login_Window\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.FrmLogin.resources
+C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\Simple_Login_Window\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.Properties.Resources.resources
+C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\Simple_Login_Window\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.csproj.GenerateResource.Cache
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\Simple_Login_Window\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.exe
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\Simple_Login_Window\Simple_Login_Window\obj\x86\Debug\Simple_Login_Window.pdb
