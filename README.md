@@ -26,12 +26,12 @@ This repository contains a collection of mini projects written in C#. Each proje
    dotnet run
    ```
 
-## Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue to discuss potential improvements.
-
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Support
+
+For any questions or suggestions, feel free to [open an issue](https://github.com/vanu888/C-Mini-Projects/issues) on GitHub.
 
 ---
