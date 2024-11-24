@@ -1,0 +1,7 @@
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Age Calculator\bin\Release\Age Calculator.exe
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Age Calculator\bin\Release\Age Calculator.pdb
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Release\Age_Calculator.FrmAgeCalculator.resources
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Release\Age_Calculator.Properties.Resources.resources
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Release\Age Calculator.csproj.GenerateResource.Cache
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Release\Age Calculator.exe
+C:\Users\GreatBird\AppData\Local\Temporary Projects\Age Calculator\obj\x86\Release\Age Calculator.pdb
