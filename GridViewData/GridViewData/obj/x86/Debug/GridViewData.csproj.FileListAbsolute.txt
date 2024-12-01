@@ -1,0 +1,17 @@
+C:\Users\GreatBird\AppData\Local\Temporary Projects\GridViewData\bin\Debug\GridViewData.exe
+C:\Users\GreatBird\AppData\Local\Temporary Projects\GridViewData\bin\Debug\GridViewData.pdb
+C:\Users\GreatBird\AppData\Local\Temporary Projects\GridViewData\obj\x86\Debug\GridViewData.FrmGridView.resources
+C:\Users\GreatBird\AppData\Local\Temporary Projects\GridViewData\obj\x86\Debug\GridViewData.Properties.Resources.resources
+C:\Users\GreatBird\AppData\Local\Temporary Projects\GridViewData\obj\x86\Debug\GridViewData.csproj.GenerateResource.Cache
+C:\Users\GreatBird\AppData\Local\Temporary Projects\GridViewData\obj\x86\Debug\GridViewData.exe
+C:\Users\GreatBird\AppData\Local\Temporary Projects\GridViewData\obj\x86\Debug\GridViewData.pdb
+C:\Users\GreatBird\Documents\GitHub\GridViewData\GridViewData\obj\x86\Debug\GridViewData.exe
+C:\Users\GreatBird\Documents\GitHub\GridViewData\GridViewData\obj\x86\Debug\GridViewData.pdb
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\GridViewData\GridViewData\obj\x86\Debug\GridViewData.exe
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\GridViewData\GridViewData\obj\x86\Debug\GridViewData.pdb
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\GridViewData\GridViewData\bin\Debug\GridViewData.exe
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\GridViewData\GridViewData\bin\Debug\GridViewData.pdb
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\GridViewData\GridViewData\obj\x86\Debug\GridViewData.csprojResolveAssemblyReference.cache
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\GridViewData\GridViewData\obj\x86\Debug\GridViewData.FrmGridView.resources
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\GridViewData\GridViewData\obj\x86\Debug\GridViewData.Properties.Resources.resources
+C:\Users\GreatBird\Documents\GitHub\C-Mini-Projects\GridViewData\GridViewData\obj\x86\Debug\GridViewData.csproj.GenerateResource.Cache
