@@ -1,4 +1,0 @@
-C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\PrintAllOddOrEvenNumbers\PrintAllOddOrEvenNumbers\bin\Debug\PrintAllOddOrEvenNumbers.exe
-C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\PrintAllOddOrEvenNumbers\PrintAllOddOrEvenNumbers\bin\Debug\PrintAllOddOrEvenNumbers.pdb
-C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\PrintAllOddOrEvenNumbers\PrintAllOddOrEvenNumbers\obj\x86\Debug\PrintAllOddOrEvenNumbers.exe
-C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\PrintAllOddOrEvenNumbers\PrintAllOddOrEvenNumbers\obj\x86\Debug\PrintAllOddOrEvenNumbers.pdb

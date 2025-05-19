@@ -1,9 +1,0 @@
-c:\users\greatbird\documents\visual studio 2013\Projects\GuiChat_bot\GuiChat_bot\bin\Debug\GuiChat_bot.exe.config
-c:\users\greatbird\documents\visual studio 2013\Projects\GuiChat_bot\GuiChat_bot\bin\Debug\GuiChat_bot.exe
-c:\users\greatbird\documents\visual studio 2013\Projects\GuiChat_bot\GuiChat_bot\bin\Debug\GuiChat_bot.pdb
-c:\users\greatbird\documents\visual studio 2013\Projects\GuiChat_bot\GuiChat_bot\obj\Debug\GuiChat_bot.csprojResolveAssemblyReference.cache
-c:\users\greatbird\documents\visual studio 2013\Projects\GuiChat_bot\GuiChat_bot\obj\Debug\GuiChat_bot.Properties.Resources.resources
-c:\users\greatbird\documents\visual studio 2013\Projects\GuiChat_bot\GuiChat_bot\obj\Debug\GuiChat_bot.csproj.GenerateResource.Cache
-c:\users\greatbird\documents\visual studio 2013\Projects\GuiChat_bot\GuiChat_bot\obj\Debug\GuiChat_bot.exe
-c:\users\greatbird\documents\visual studio 2013\Projects\GuiChat_bot\GuiChat_bot\obj\Debug\GuiChat_bot.pdb
-C:\Users\GreatBird\Documents\Visual Studio 2013\Projects\GuiChat_bot\GuiChat_bot\obj\Debug\GuiChat_bot.FrmChatBot.resources

@@ -1,4 +1,0 @@
-C:\Users\GreatBird\AppData\Local\Temporary Projects\PrintAllOddNums\bin\Debug\PrintAllOddNums.exe
-C:\Users\GreatBird\AppData\Local\Temporary Projects\PrintAllOddNums\bin\Debug\PrintAllOddNums.pdb
-C:\Users\GreatBird\AppData\Local\Temporary Projects\PrintAllOddNums\obj\x86\Debug\PrintAllOddNums.exe
-C:\Users\GreatBird\AppData\Local\Temporary Projects\PrintAllOddNums\obj\x86\Debug\PrintAllOddNums.pdb

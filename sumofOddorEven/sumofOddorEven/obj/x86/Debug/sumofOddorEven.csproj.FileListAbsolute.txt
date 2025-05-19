@@ -1,4 +1,0 @@
-C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\sumofOddorEven\sumofOddorEven\bin\Debug\sumofOddorEven.exe
-C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\sumofOddorEven\sumofOddorEven\bin\Debug\sumofOddorEven.pdb
-C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\sumofOddorEven\sumofOddorEven\obj\x86\Debug\sumofOddorEven.exe
-C:\Users\GreatBird\Documents\Visual Studio 2010\Projects\sumofOddorEven\sumofOddorEven\obj\x86\Debug\sumofOddorEven.pdb

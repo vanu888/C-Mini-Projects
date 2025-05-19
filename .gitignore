@@ -1,0 +1,19 @@
+cat <<EOF > .gitignore
+# Ignore build output
+**/bin/
+**/obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Logs and temp files
+*.log
+*.tmp
+*.cache
+*.db
+
+# Rider / JetBrains
+.idea/
+EOF

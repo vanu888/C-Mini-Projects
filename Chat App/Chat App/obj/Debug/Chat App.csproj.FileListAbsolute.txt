@@ -1,6 +1,0 @@
-c:\users\greatbird\documents\visual studio 2013\Projects\Chat App\Chat App\bin\Debug\Chat App.exe.config
-c:\users\greatbird\documents\visual studio 2013\Projects\Chat App\Chat App\obj\Debug\Chat App.csprojResolveAssemblyReference.cache
-c:\users\greatbird\documents\visual studio 2013\Projects\Chat App\Chat App\bin\Debug\Chat App.exe
-c:\users\greatbird\documents\visual studio 2013\Projects\Chat App\Chat App\bin\Debug\Chat App.pdb
-c:\users\greatbird\documents\visual studio 2013\Projects\Chat App\Chat App\obj\Debug\Chat App.exe
-c:\users\greatbird\documents\visual studio 2013\Projects\Chat App\Chat App\obj\Debug\Chat App.pdb
